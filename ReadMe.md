@@ -1,4 +1,4 @@
-# Flexbox Module Challenge
+# Flexbox Module Weekend Challenge
 
 The module challenge is the lab-task/assignment that students work through independently. This expands on the guided project completed earlier with the instructor.
 
